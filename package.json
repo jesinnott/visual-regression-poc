@@ -4,9 +4,9 @@
   "description": "This is a example poc using backstopjs and applitools",
   "main": "index.js",
   "scripts": {
-    "bs-init": "backstop init",
-    "bs-test": "backstop test",
-    "bs-approve" : "backstop approve"
+    "bs:init": "backstop init",
+    "bs:test": "backstop test",
+    "bs:approve" : "backstop approve"
   },
   "keywords": [
     "applittols",

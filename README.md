@@ -24,17 +24,17 @@ yarn
 
 - Test the page for the first time (it will probably fails since there is no baseline to compare):
 ```
-yarn bs-test
+yarn bs:test
 ```
 
 - You can approve your baseline:
 ```
-yarn bs-approve
+yarn bs:approve
 ```
 
 - Then you can run your text again and see the difference
 ```
-yarn bs-test
+yarn bs:test
 ```
 
 ### Clean-up your workspace
