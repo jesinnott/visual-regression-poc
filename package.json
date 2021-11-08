@@ -1,0 +1,22 @@
+{
+  "name": "visual-regression-poc",
+  "version": "1.0.0",
+  "description": "This is a example poc using backstopjs and applitools",
+  "main": "index.js",
+  "scripts": {
+    "bs-init": "backstop init",
+    "bs-test": "backstop test",
+    "bs-approve" : "backstop approve"
+  },
+  "keywords": [
+    "applittols",
+    "backstopjs",
+    "visual",
+    "test"
+  ],
+  "author": "Juan Sinnott",
+  "license": "MIT",
+  "dependencies": {
+    "backstopjs": "^5.4.4"
+  }
+}
